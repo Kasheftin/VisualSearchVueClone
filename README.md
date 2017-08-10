@@ -9,6 +9,7 @@
 - Mouse overs and clicks work on dropdown list as well.
 - Selecting the value from the list jumps to the next stage and allows to use next dropdown filter immediately.
 - Simple component's change event listener implemented.
+- [DEMO](https://kasheftin.github.io/VisualSearchVueClone/).
 
 # vis
 
